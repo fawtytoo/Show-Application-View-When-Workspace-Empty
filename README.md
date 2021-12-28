@@ -1,4 +1,4 @@
-# Show-Application-View-When-Workspace-Empty
+# Show Application View When Workspace Empty
 ## Gnome Shell extension
 
 ### Description
